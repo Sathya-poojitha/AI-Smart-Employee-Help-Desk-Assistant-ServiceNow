@@ -4,7 +4,7 @@
 
 # 📌 Project Overview
 
-The AI Powered Employee Help Desk Assistant is a ServiceNow application developed to automate employee support request management within an organization. The application helps employees submit IT-related support requests such as password reset issues, VPN connectivity problems, email access issues, and software access requests.
+The AI Smart Employee Help Desk Assistant is a ServiceNow application developed to automate employee support request management within an organization. The application helps employees submit IT-related support requests such as password reset issues, VPN connectivity problems, email access issues, and software access requests.
 
 The project uses ServiceNow Business Rules to simulate AI-based automation by automatically predicting request priority, assigning the appropriate department, and generating smart suggestions based on the issue type selected by the employee.
 
@@ -404,7 +404,7 @@ This screenshot displays the employee support request form used for submitting s
 
 This screenshot displays the AI Auto Suggestion Business Rule script used for automation.
 
-![Business Rule](AI Smart Help Desk Assistant/screenshots/ai_business_rule.jpeg)
+![Business Rule](screenshots/ai_business_rule.jpeg)
 
 ---
 
