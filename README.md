@@ -374,7 +374,7 @@ This project showcases practical ServiceNow development skills including applica
 
 This screenshot displays the Employee Support Requests table structure created in ServiceNow.
 
-![Table Structure](AI Smart Help Desk Assistant/screenshots/table_structure.jpeg)
+![Table Structure](AI-Smart-Help-Desk-Assistant/screenshots/table_structure.jpeg)
 
 ---
 
@@ -384,11 +384,11 @@ This screenshot shows the modules created inside the AI Smart Help Desk Assistan
 
 ### 🔹 Submit Request Module
 
-![Submit Request](AI Smart Help Desk Assistant/screenshots/modules/submit_request.jpeg)
+![Submit Request](AI-Smart-Help-Desk-Assistant/screenshots/modules/submit_request.jpeg)
 
 ### 🔹 View Requests Module
 
-![View Requests](AI Smart Help Desk Assistant/screenshots/modules/view_requests.jpeg)
+![View Requests](AI-Smart-Help-Desk-Assistant/screenshots/modules/view_requests.jpeg)
 
 ---
 
@@ -396,7 +396,7 @@ This screenshot shows the modules created inside the AI Smart Help Desk Assistan
 
 This screenshot displays the employee support request form used for submitting support tickets.
 
-![Request Form](AI Smart Help Desk Assistant/screenshots/request_form.jpeg)
+![Request Form](AI-Smart-Help-Desk-Assistant/screenshots/request_form.jpeg)
 
 ---
 
@@ -404,7 +404,7 @@ This screenshot displays the employee support request form used for submitting s
 
 This screenshot displays the AI Auto Suggestion Business Rule script used for automation.
 
-![Business Rule](screenshots/ai_business_rule.jpeg)
+![Business Rule](AI-Smart-Help-Desk-Assistant/screenshots/ai_business_rule.jpeg)
 
 ---
 
@@ -412,7 +412,7 @@ This screenshot displays the AI Auto Suggestion Business Rule script used for au
 
 This screenshot demonstrates automatic AI-based field population using Business Rules.
 
-![Auto-filled Record](AI Smart Help Desk Assistant/screenshots/auto_filled_record.jpeg)
+![Auto-filled Record](AI-Smart-Help-Desk-Assistant/screenshots/auto_filled_record.jpeg)
 
 ---
 
@@ -420,7 +420,7 @@ This screenshot demonstrates automatic AI-based field population using Business 
 
 This screenshot displays the AI Request Priority Analysis Pie Chart report.
 
-![Priority Pie Chart](AI Smart Help Desk Assistant/screenshots/priority_pie_chart.jpeg)
+![Priority Pie Chart](AI-Smart-Help-Desk-Assistant/screenshots/priority_pie_chart.jpeg)
 
 ---
 
@@ -428,7 +428,7 @@ This screenshot displays the AI Request Priority Analysis Pie Chart report.
 
 This screenshot displays the AI Request Status Analysis Bar Chart report.
 
-![Status Bar Chart](AI Smart Help Desk Assistant/screenshots/status_bar_chart.jpeg)
+![Status Bar Chart](AI-Smart-Help-Desk-Assistant/screenshots/status_bar_chart.jpeg)
 
 ---
 
@@ -436,4 +436,4 @@ This screenshot displays the AI Request Status Analysis Bar Chart report.
 
 This screenshot displays the AI Help Desk Dashboard used for request analytics monitoring.
 
-![Dashboard](AI Smart Help Desk Assistant/screenshots/dashboard.jpeg)
+![Dashboard](AI-Smart-Help-Desk-Assistant/screenshots/dashboard.jpeg)
