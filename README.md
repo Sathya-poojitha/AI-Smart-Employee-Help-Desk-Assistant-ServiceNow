@@ -1,5 +1,6 @@
 # 🤖 AI Smart Employee Help Desk Assistant using ServiceNow
 
+---
 
 # 📌 Project Overview
 
@@ -9,7 +10,7 @@ The project uses ServiceNow Business Rules to simulate AI-based automation by au
 
 This application reduces manual effort in handling support tickets and improves the efficiency of request management through automation and dashboard analytics.
 
-
+---
 
 # 🎯 Why This Project Was Developed
 
@@ -18,16 +19,22 @@ In many organizations, employee support requests are handled manually, which can
 This project was developed to:
 
 ✅ Automate employee request handling
+
 ✅ Reduce manual work for support teams
+
 ✅ Improve issue categorization
+
 ✅ Automatically assign departments
+
 ✅ Predict request priority
+
 ✅ Provide smart support suggestions
+
 ✅ Monitor requests using dashboards and reports
 
 The project demonstrates how ServiceNow automation features can improve operational efficiency in IT support environments.
 
-
+---
 
 # 🛠️ Technologies Used
 
@@ -39,7 +46,7 @@ The project demonstrates how ServiceNow automation features can improve operatio
 * Dashboards
 * Role-Based Access Control (RBAC)
 
-
+---
 
 # 📂 Application Details
 
@@ -51,7 +58,7 @@ AI Smart Help Desk Assistant
 
 Scoped Application
 
-
+---
 
 # 👥 Roles Created
 
@@ -63,7 +70,7 @@ Used for administrative access and managing application configurations.
 
 Used for employees to submit and view support requests.
 
-
+---
 
 # 📑 Modules Created
 
@@ -75,7 +82,7 @@ Used to create new employee support requests.
 
 Used to view all submitted requests.
 
-
+---
 
 # 🗂️ Table Created
 
@@ -86,7 +93,7 @@ Used to view all submitted requests.
 
 The table stores employee support request details and automation results.
 
-
+---
 
 # 🧾 Fields Created
 
@@ -101,7 +108,7 @@ The table stores employee support request details and automation results.
 | AI Suggestion | String | Stores automated recommendation |
 | Status        | Choice | Stores request status           |
 
-
+---
 
 # ⚙️ Choice Values Configured
 
@@ -130,7 +137,7 @@ The table stores employee support request details and automation results.
 * Network Team
 * Security Team
 
-
+---
 
 # 🧪 Sample Records Created
 
@@ -141,7 +148,7 @@ The table stores employee support request details and automation results.
 | Rahul         | EMP103      | Email Problem   | High     | IT Support    | In Progress |
 | Poojitha      | EMP104      | Software Access | Low      | Security Team | Resolved    |
 
-
+---
 
 # 🤖 AI Automation Using Business Rule
 
@@ -154,14 +161,16 @@ AI Auto Suggestion Rule
 The Business Rule automatically:
 
 ✅ Predicts request priority
+
 ✅ Assigns departments
+
 ✅ Generates AI-like smart suggestions
 
 based on the selected issue type.
 
 This automation simulates AI-based support handling in ServiceNow.
 
-
+---
 
 # 🧠 Business Rule Logic
 
@@ -189,7 +198,7 @@ This automation simulates AI-based support handling in ServiceNow.
 * Department → Security Team
 * AI Suggestion → Verify approval and permissions
 
-
+---
 
 # 💻 Business Rule Script
 
@@ -223,7 +232,7 @@ current.ai_suggestion="Verify approval and permissions";
 })(current, previous);
 ```
 
-
+---
 
 # 📊 Reports Created
 
@@ -237,7 +246,7 @@ current.ai_suggestion="Verify approval and permissions";
 * Report Type: Bar Chart
 * Purpose: Displays request counts based on request status.
 
-
+---
 
 # 📈 Dashboard Created
 
@@ -252,70 +261,102 @@ The dashboard provides visual analytics for monitoring employee support requests
 ## 🔹 Dashboard Components
 
 ✅ AI Request Priority Analysis (Pie Chart)
+
 ✅ AI Request Status Analysis (Bar Chart)
 
-
+---
 
 # 🔄 Project Workflow
 
 1️⃣ Employee submits a support request.
+
 2️⃣ Employee selects the issue type.
+
 3️⃣ Business Rule executes automatically.
+
 4️⃣ Priority is predicted automatically.
+
 5️⃣ Department is assigned automatically.
+
 6️⃣ AI suggestion is generated automatically.
+
 7️⃣ Request is stored in the table.
+
 8️⃣ Reports and dashboards visualize request analytics.
 
-
+---
 
 # ⭐ Key Features
 
 ✅ Employee request submission system
+
 ✅ AI-inspired automation
+
 ✅ Automatic priority prediction
+
 ✅ Smart department assignment
+
 ✅ Automated suggestions generation
+
 ✅ Dashboard analytics
+
 ✅ Interactive reports
+
 ✅ Role-based access control
 
-
+---
 
 # 🚀 Advantages of the Project
 
 ✅ Reduces manual support handling
+
 ✅ Improves ticket management efficiency
+
 ✅ Enhances issue categorization
+
 ✅ Improves support response process
+
 ✅ Provides centralized request tracking
+
 ✅ Demonstrates ServiceNow automation skills
 
-
+---
 
 # 📚 Learning Outcomes
 
 ✅ Scoped Application Development
+
 ✅ Table Creation
+
 ✅ Form Configuration
+
 ✅ Role-Based Access Control
+
 ✅ Business Rule Scripting
+
 ✅ Report Creation
+
 ✅ Dashboard Development
+
 ✅ ServiceNow Automation
 
-
+---
 
 # 🔮 Future Enhancements
 
 ✅ Virtual Agent chatbot integration
+
 ✅ Email notification system
+
 ✅ SLA tracking
+
 ✅ Approval workflows
+
 ✅ Machine learning recommendations
+
 ✅ Self-service employee portal
 
-
+---
 
 # 🏁 Conclusion
 
@@ -325,71 +366,74 @@ The project improves operational efficiency by automatically predicting prioriti
 
 This project showcases practical ServiceNow development skills including application development, automation, scripting, reporting, and dashboard creation.
 
-
+---
 
 # 📸 Screenshots
 
-##  1. Table Structure
+## 🖼️ 1. Table Structure
 
-```markdown
+This screenshot displays the Employee Support Requests table structure created in ServiceNow.
+
 ![Table Structure](screenshots/table_structure.jpeg)
-```
 
 ---
 
-##  2. Modules
+## 🖼️ 2. Modules
 
-```markdown
-![Modules](AI Smart Help Desk Assistant/screenshots/modules/submit_request.jpeg)
+This screenshot shows the modules created inside the AI Smart Help Desk Assistant application.
 
-(AI Smart Help Desk Assistant/screenshot/modules/view_request.jpeg)
-```
+### 🔹 Submit Request Module
 
----
+![Submit Request](screenshots/modules/submit_request.jpeg)
 
-##  3. Request Form
+### 🔹 View Requests Module
 
-```markdown
-![Request Form](screenshots/request_form.png)
-```
+![View Requests](screenshots/modules/view_requests.jpeg)
 
 ---
 
+## 🖼️ 3. Request Form
+
+This screenshot displays the employee support request form used for submitting support tickets.
+
+![Request Form](screenshots/request_form.jpeg)
+
+---
 
 ## 🖼️ 4. Business Rule Script
 
-```markdown
-![Business Rule](screenshots/ai_business_rule.png)
-```
+This screenshot displays the AI Auto Suggestion Business Rule script used for automation.
+
+![Business Rule](screenshots/ai_business_rule.jpeg)
 
 ---
 
 ## 🖼️ 5. Auto-filled AI Record
 
-```markdown
-![Auto-filled Record](screenshots/auto_filled_record.png)
-```
+This screenshot demonstrates automatic AI-based field population using Business Rules.
+
+![Auto-filled Record](screenshots/auto_filled_record.jpeg)
 
 ---
 
 ## 🖼️ 6. Priority Pie Chart
 
-```markdown
-![Priority Pie Chart](screenshots/priority_pie_chart.png)
-```
+This screenshot displays the AI Request Priority Analysis Pie Chart report.
 
+![Priority Pie Chart](screenshots/priority_pie_chart.jpeg)
 
+---
 
 ## 🖼️ 7. Status Bar Chart
 
-```markdown
-![Status Bar Chart](screenshots/status_bar_chart.png)
-```
+This screenshot displays the AI Request Status Analysis Bar Chart report.
 
+![Status Bar Chart](screenshots/status_bar_chart.jpeg)
 
+---
 
 ## 🖼️ 8. Dashboard
 
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
+This screenshot displays the AI Help Desk Dashboard used for request analytics monitoring.
+
+![Dashboard](screenshots/dashboard.jpeg)
