@@ -1,3 +1,7 @@
+
+🔗 LinkedIn: https://www.linkedin.com/in/sathyapoojitha
+
+
 # 🤖 AI Smart Employee Help Desk Assistant using ServiceNow
 
 ---
