@@ -388,7 +388,7 @@ This screenshot shows the modules created inside the AI Smart Help Desk Assistan
 
 ### 🔹 View Requests Module
 
-![View Requests](AI-Smart-Help-Desk-Assistant/screenshots/modules/view_requests.jpeg)
+![View Requests](AI-Smart-Help-Desk-Assistant/screenshots/modules/view_request.jpeg)
 
 ---
 
